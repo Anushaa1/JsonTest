@@ -1,17 +1,16 @@
 {
-  "UserInfo":[
-  {
-    "firstName": "Rack",
-    "lastName": "Jackon",
-    "gender": "man",
-    "age": 24,
-    "address": {
-        "streetAddress": "126",
-        "city": "San Jone",
-        "state": "CA",
-        "postalCode": "394221"
-    },
-    "phoneNumbers": [
-        { "type": "home", "number": "7383627627" }
-    ]
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
 }
